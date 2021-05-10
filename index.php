@@ -7,7 +7,7 @@ if(!isset($_SESSION['username'])) {
 }
 ?>
 
-<tittle>Login Sukses</tittle>
+<title>Login Sukses</title>
 <div align = 'center'>
   Selamat Datang, <b> <?php echo $username;?></b> <a href="logout.php"><b>Logout</b></a>
 </div>

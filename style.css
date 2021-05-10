@@ -1,0 +1,27 @@
+* {
+margin: 0px;
+padding: 0px;
+}
+body{
+	font-size: 120%;
+	background: red;
+}
+header {
+	width: 30%;
+	margin: 50px auto 0px;
+	color: white;
+	background: red;
+	text-align: center;
+	border: 1px solid red;
+	border-bottom: none;
+	border-radius: 10px 10px 0px 0px;
+	padding: 20px;
+}
+form{
+	width: 30%;
+	margin: 0px auto;
+	padding: 20px;
+	border: 1px solid red;
+	background: white;
+	border-radius: 0px 0px 10px 10px;
+}
